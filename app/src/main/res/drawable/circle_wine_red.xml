@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:shape= "rectangle">
+    <!--方形，四角圆角，酒红色背景-->
+    <item>
+        <shape>
+            <corners android:topRightRadius="3dp" android:bottomRightRadius="3dp" android:topLeftRadius="3dp" android:bottomLeftRadius="3dp"/>
+            <solid android:color="@color/wine_red"/>
+        </shape>
+    </item>
+
+</layer-list>

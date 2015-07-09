@@ -10,6 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/libs" />
+            <option value="$PROJECT_DIR$/libs/EventBus" />
+            <option value="$PROJECT_DIR$/libs/android-volley-master" />
           </set>
         </option>
       </GradleProjectSettings>

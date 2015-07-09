@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ghp/d_work/android_project/VolleyDemo/libs/EventBus/assets"/></dataSet><dataSet config="release"><source path="/Users/ghp/d_work/android_project/VolleyDemo/libs/EventBus/build-types/release/assets"/></dataSet></merger>
